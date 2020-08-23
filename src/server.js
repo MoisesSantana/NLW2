@@ -30,3 +30,4 @@ server
 .post("/save-classes", saveClasses)
 // start server
 .listen(5000)
+// npm run dev <<<< !!IMPORTANT!! >>>>> (execut the server)
